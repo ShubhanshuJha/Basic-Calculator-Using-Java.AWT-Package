@@ -23,7 +23,6 @@ This is a GUI Java program developed using Java.AWT package. This Java program h
 
 
 #Current version of this Calculator Project supports the operation:
-
 ->Addition of Two Numbers
 ->Subtraction of Two Numbers
 ->Multiplication of Two Numbers
