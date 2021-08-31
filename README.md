@@ -2,15 +2,14 @@
 This is a GUI Java program developed using Java.AWT package. This Java program has the advantage that one can add as many enhancements as one wants.
 
 
-# Program Details:
-'''
-->Author: Shubhanshu Jha
+## Program Details:
 
-->Packages implemented:
+# ->Author: Shubhanshu Jha
+
+# ->Packages implemented:
 1. java.awt package
 2. java.awt.event package
 3. java.util package
-'''
 
 
 # Features of this Java program:
