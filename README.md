@@ -7,30 +7,45 @@ This is a GUI Java program developed using Java.AWT package. This Java program h
 ->Author: Shubhanshu Jha
 
 ->Packages implemented:
-  java.awt package
-  java.awt.event package
-
+1. java.awt package
+2. java.awt.event package
+3. java.util package
 
 #Features of this Java program:
 
 ->Static GUI
+
 ->Appears at Center of Screen
+
 ->Displays the Previous Result
+
 ->Input/Output Size is capable of handling medium level computation (BigInteger Class not used)
+
 ->Good Implementation of WindowListener, ActionListener, and KeyListener
+
 ->Can do computations using Keyboard alone
+
 ->Calculator current available features can be checked from a Menu Button
 
 
 #Current version of this Calculator Project supports the operation:
+
 ->Addition of Two Numbers
+
 ->Subtraction of Two Numbers
+
 ->Multiplication of Two Numbers
+
 ->Division of Two Numbers
+
 ->Modulus of Two Numbers
+
 ->LCM of Two Numbers
+
 ->HCF or GCD of Two Numbers
+
 ->Power Calculation (A to power B)
+
 
 
 #To know the currently available operations in the Calculator:
@@ -41,7 +56,9 @@ This is a GUI Java program developed using Java.AWT package. This Java program h
 #How to use this calculator for different supported operations:
 
 You can give the Two numbers in the "Give Input 1" and "Give Input 2" labeled TextField.
+
 Give the operation you want to perform in the "Operation:" labeled TextField.
+
 And, press Enter to do the computation or click on the "EVAL" button.
 
 ->To clear all fields, Click/Enter on the "CLEAR" button.
