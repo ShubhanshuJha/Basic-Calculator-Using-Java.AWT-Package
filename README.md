@@ -11,6 +11,8 @@ This is a GUI Java program developed using Java.AWT package. This Java program h
 2. java.awt.event package
 3. java.util package
 
+
+
 #Features of this Java program:
 
 ->Static GUI
@@ -26,6 +28,7 @@ This is a GUI Java program developed using Java.AWT package. This Java program h
 ->Can do computations using Keyboard alone
 
 ->Calculator current available features can be checked from a Menu Button
+
 
 
 #Current version of this Calculator Project supports the operation:
@@ -48,9 +51,11 @@ This is a GUI Java program developed using Java.AWT package. This Java program h
 
 
 
+
 #To know the currently available operations in the Calculator:
 
 ->Click on the 'Supported Operation' button present in the MenuBar and you'll see the list of operations.
+
 
 
 #How to use this calculator for different supported operations:
@@ -61,7 +66,11 @@ Give the operation you want to perform in the "Operation:" labeled TextField.
 
 And, press Enter to do the computation or click on the "EVAL" button.
 
+
+
 ->To clear all fields, Click/Enter on the "CLEAR" button.
+
+
 
 ->To perform an operation, give the code/command/text associated with the operation:
 1. Addition: +
@@ -72,6 +81,7 @@ And, press Enter to do the computation or click on the "EVAL" button.
 6. LCM:  LCM    or    lcm
 7. HCF or GCD:  HCF    or    hcf    or    GCD    or    gcd
 8. A to power B:  ^
+
 
 
 ->Previously computed result is displayed beside the "Previous Result:" labeled field.
