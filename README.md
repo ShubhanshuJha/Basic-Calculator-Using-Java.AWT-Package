@@ -87,6 +87,6 @@ And, press Enter to do the computation or click on the "EVAL" button.
 ->Previously computed result is displayed beside the "Previous Result:" labeled field.
 
 
-_______________________________________________________________________________________________________________________________________________________-
+__________________________________________________________________________________________________________________________________
 This project covers a lot of Java GUI programming concepts that fall under java.awt package.
 More features will be included soon🙂.
