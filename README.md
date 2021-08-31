@@ -38,7 +38,9 @@ This is a GUI Java program developed using Java.AWT package. This Java program h
 You can give the Two numbers in the "Give Input 1" and "Give Input 2" labeled TextField.
 Give the operation you want to perform in the "Operation:" labeled TextField.
 And, press Enter to do the computation or click on the "EVAL" button.
+
 ->To clear all fields, Click/Enter on the "CLEAR" button.
+
 ->To perform an operation, give the code/command/text associated with the operation:
 1. Addition: +
 2. Subtraction:  -
